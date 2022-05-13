@@ -82,10 +82,16 @@ span{
     top: 210px;
 }
 input[type=checkbox]{
+    
     position: absolute;
     border: 1px solid black;
     top: 3px;
     margin-left: -20px;
+}
+.color_email{
+    background-color: #c4c4c4;
+    width: 84%;
+    height:32px;
 }
 .b1{
     position: absolute;
