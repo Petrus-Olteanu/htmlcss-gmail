@@ -1,10 +1,11 @@
+/*GENERAL*/
 *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	font-family:sans-serif;
 }
-
+/*BODY*/
 body{
      background-color: #9984d4;
 }
@@ -45,6 +46,7 @@ hr{
     width: 90%;
     margin: 0 20px;
 }
+/*INPUT*/
 input[type=text]{
     position: absolute;
     width: 150px;
@@ -54,6 +56,7 @@ input[type=text]{
     top:150px;
     margin-left:20px;
   }
+  /*BUTTON*/
 button{
     height: 25px;
     position:absolute;
@@ -61,6 +64,7 @@ button{
     right: 60%;
     border-radius: 4px;
 }
+/*CIRCLE*/
 .cerchio{
     position:absolute;
     top: 180px;
@@ -88,6 +92,7 @@ input[type=checkbox]{
     top: 3px;
     margin-left: -20px;
 }
+/*EMAIL*/
 .color_email{
     background-color: #c4c4c4;
     width: 84%;
